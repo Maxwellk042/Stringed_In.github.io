@@ -22,7 +22,7 @@ body {
 /* selected tab */
 .mytabs .tab {
     width: 100%;
-    padding: auto;
+    padding: 0px;
     background: grey;
     order: 1;
     display: none;
@@ -41,9 +41,9 @@ body {
 }
 
 .mytabs{
-    float: right;
+    float: left;
 }
 
 .twitter {
-    float: left;
+    float: right;
 }
