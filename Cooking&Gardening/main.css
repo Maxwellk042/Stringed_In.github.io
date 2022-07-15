@@ -6,7 +6,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     max-width: 600px;
-    margin: 25px auto;
+    margin: 18px auto;
     padding: 10px;
 }
 
@@ -41,9 +41,9 @@ body {
 }
 
 .mytabs{
-    float: left;
+    float: right;
 }
 
 .twitter {
-    float: right;
+    float: left;
 }
