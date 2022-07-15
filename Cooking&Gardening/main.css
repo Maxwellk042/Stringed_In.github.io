@@ -19,7 +19,7 @@ body {
     background: black;
     font-weight: bold;
 }
-
+/* selected tab */
 .mytabs .tab {
     width: 100%;
     padding: auto;
