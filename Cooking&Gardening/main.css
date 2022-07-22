@@ -29,7 +29,7 @@ body {
 }
 
 .mytabs.tab h2 {
-    font-size: 6vh;
+    font-size: 3vh;
 }
 
 .mytabs input[type='radio']:checked+label+.tab {
